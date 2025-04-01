@@ -20,3 +20,5 @@ estoy utilizando la extensiones de jupyter en python y puedes ir por celda corri
 ## kagle pagina de dataset que use
 [https://www.kaggle.com/datasets/quanthan/top-15000-ranked-anime-dataset-update-to-32025/data]
 
+## Enlace de Resumen
+[https://docs.google.com/document/d/1XB60tUL2eLk9QQHqFUjnx2AmxRlnVCQShebTNnSQMpE/edit?tab=t.0#heading=h.ieujn93ebt2r]
